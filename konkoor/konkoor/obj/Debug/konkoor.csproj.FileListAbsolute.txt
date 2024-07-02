@@ -1,0 +1,24 @@
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\bin\Debug\konkoor.exe.config
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\bin\Debug\konkoor.exe
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\bin\Debug\konkoor.pdb
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\obj\Debug\konkoor.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\obj\Debug\konkoor.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\obj\Debug\konkoor.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\obj\Debug\konkoor.csproj.GenerateResource.cache
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\obj\Debug\konkoor.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\obj\Debug\konkoor.exe
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\obj\Debug\konkoor.pdb
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\obj\Debug\konkoor.login.resources
+C:\Users\acer\Documents\Visual Studio 2022\db\konkoor\konkoor\obj\Debug\konkoor.Properties.safheasli.resources
+C:\Users\frequensy\Documents\konkoor\konkoor\bin\Debug\konkoor.exe.config
+C:\Users\frequensy\Documents\konkoor\konkoor\bin\Debug\konkoor.exe
+C:\Users\frequensy\Documents\konkoor\konkoor\bin\Debug\konkoor.pdb
+C:\Users\frequensy\Documents\konkoor\konkoor\obj\Debug\konkoor.csproj.AssemblyReference.cache
+C:\Users\frequensy\Documents\konkoor\konkoor\obj\Debug\konkoor.Form1.resources
+C:\Users\frequensy\Documents\konkoor\konkoor\obj\Debug\konkoor.login.resources
+C:\Users\frequensy\Documents\konkoor\konkoor\obj\Debug\konkoor.Properties.Resources.resources
+C:\Users\frequensy\Documents\konkoor\konkoor\obj\Debug\konkoor.Properties.safheasli.resources
+C:\Users\frequensy\Documents\konkoor\konkoor\obj\Debug\konkoor.csproj.GenerateResource.cache
+C:\Users\frequensy\Documents\konkoor\konkoor\obj\Debug\konkoor.csproj.CoreCompileInputs.cache
+C:\Users\frequensy\Documents\konkoor\konkoor\obj\Debug\konkoor.exe
+C:\Users\frequensy\Documents\konkoor\konkoor\obj\Debug\konkoor.pdb
